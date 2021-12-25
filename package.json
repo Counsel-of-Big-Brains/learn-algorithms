@@ -1,0 +1,31 @@
+{
+  "name": "learn-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^17.0.4",
+    "ts-node": "^10.4.0"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.16.5",
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "ts-node": "ts-node",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Counsel-of-Big-Brains/learn-algorithms.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Counsel-of-Big-Brains/learn-algorithms/issues"
+  },
+  "homepage": "https://github.com/Counsel-of-Big-Brains/learn-algorithms#readme"
+}
